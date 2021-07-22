@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishita-10
-- 👩‍🎓I am a sophomore at Vit Bhopal University
+- 👩‍ 🎓I am a sophomore at Vit Bhopal University
 - 👀 I’m interested in internship
 - 🌱 I’m currently learning web development
 - 📫 How to reach me:ishitaagarwal002@gmail.com
