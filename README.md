@@ -6,5 +6,6 @@
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/80759760/150649645-084e20de-a977-4ac6-b7fd-c3169dc27e74.png)
 
+![My stats](https://github-readme-stats.vercel.app/api?username=Ishita-10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
