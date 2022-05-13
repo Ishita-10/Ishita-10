@@ -6,5 +6,5 @@
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/80759760/150649645-084e20de-a977-4ac6-b7fd-c3169dc27e74.png)
 
-My Github Status
-https://github-readme-stats.vercel.app/api?username=Ishita-10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
+
+
