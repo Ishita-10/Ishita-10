@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishita Agarwal
-- 🎓 I am a sophomore at Vit Bhopal University
-- 🌱 Currently exploring the fields of Web Development, UI/ UX.
+- 🎓 I am an undergraduate at Vit Bhopal University
+- 🌱 Currently exploring the fields of Robotic Process Automation, UI/ UX.
 - 📫 How to reach me:ishitaagarwal1002@gmail.com
 - 🎯 Some languages & softwares I'm working on:
 
