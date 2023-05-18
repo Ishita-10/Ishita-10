@@ -6,6 +6,6 @@
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/80759760/150649645-084e20de-a977-4ac6-b7fd-c3169dc27e74.png)
 
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishita-10&show_icons=true&theme=radical)
+
 
 
