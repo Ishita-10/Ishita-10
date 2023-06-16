@@ -21,7 +21,7 @@
  <!-- <h3 align="center">Languages and Tools:</h3>
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/80759760/150649645-084e20de-a977-4ac6-b7fd-c3169dc27e74.png) -->
-## Github Stats
+## Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishita-10&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita-10&theme=tokyonight" />
